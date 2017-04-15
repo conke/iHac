@@ -1,0 +1,2 @@
+# iHac
+Hackintosh automation
