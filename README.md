@@ -1,4 +1,4 @@
-# Zero-config UEFI extension for Hackintosh (macOS on PC)
+# Zero-config UEFI Extension for Hackintosh (macOS on PC)
 
 This project aims to provide you the same UX with real Mac.
 
