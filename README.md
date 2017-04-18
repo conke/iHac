@@ -1,2 +1,1 @@
-# iHac
-Hackintosh automation
+# UEFI extension for macOS support
